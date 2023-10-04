@@ -400,16 +400,16 @@ h5 {
 .services-wrapper {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: space-around;
     max-width: 100%;
     gap: 40px;
     padding-top: 150px;
 }
 
 .services-box {
-    min-height: 350px;
-    max-height: 350px;
-    width: 350px;
+    min-height: 300px;
+    max-height: 300px;
+    width: 300px;
     max-width: 350px;
     padding: 50px;
     border: 1px solid transparent;
@@ -1492,8 +1492,3 @@ footer {
     color: #0bdbec;
     text-decoration: none;
 } 
-
-
-
-
-
