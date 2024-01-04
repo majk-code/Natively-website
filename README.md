@@ -1,4 +1,4 @@
-### 🟢 LIVE PREVIEW OF WEBSITE TEMPLA
+### 🟢 LIVE PREVIEW OF WEBSITE TEMPLATE
 https://leafy-yeot-a5c30c.netlify.app/
 
 ## Natively-website
